@@ -1,4 +1,4 @@
-BookBot is my first project!
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 Welcome to your first project! We're going to build "Book Bot" - a Python program that can analyze an entire book and print out an interesting statistical report. A few of the learning goals are:
 
